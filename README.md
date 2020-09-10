@@ -1,6 +1,5 @@
 # Análisis
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abacevedoj/An-lisis/master)
-
+[![Binder](https://hub.gke.mybinder.org/user/abacevedoj-an-lisis-htfpkunf/tree)
 
 Este es un repositorio con notebooks para aprender análisis de estructuras.
 

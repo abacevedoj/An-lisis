@@ -12,7 +12,7 @@ Los Notebooks de Jupyter permiten interactuar con códigos.
 
 Notebooks disponibles:
 1. [Matriz de rigidez global de un elemento de cercha](https://nbviewer.jupyter.org/github/abacevedoj/An-lisis/blob/master/Matriz%20de%20rigidez%20del%20elemento_Cercha.ipynb)
-2. [Análisis de cerchas básico] (https://nbviewer.jupyter.org/github/abacevedoj/An-lisis/blob/master/An%C3%A1lisis%20de%20cerchas%20b%C3%A1sico.ipynb)
+2. [Análisis de cerchas básico](https://nbviewer.jupyter.org/github/abacevedoj/An-lisis/blob/master/An%C3%A1lisis%20de%20cerchas%20b%C3%A1sico.ipynb)
 
 ## Descarga del material
 Se pude clonar el repositorio usando:

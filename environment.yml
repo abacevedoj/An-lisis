@@ -1,4 +1,4 @@
-name: modelacion_computacional
+name: analisis_estructuras
 channels:
   - default
 dependencies:
